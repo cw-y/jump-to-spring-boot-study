@@ -17,6 +17,4 @@ public class MainController {
     public String root(){
         return "redirect:/question/list";
     }
-
-    /* 2-09 서비스 활용하기 부터 하기 ! */
 }
